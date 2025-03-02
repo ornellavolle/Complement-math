@@ -1,1 +1,2 @@
+Cancer_prediction= read.csv("tension.csv", header = TRUE, sep = ";", dec = "," )
 
